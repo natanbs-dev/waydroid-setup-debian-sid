@@ -19,8 +19,7 @@ sendo a play store o objetivo, precisa acessar a opção GAPPS ao abrir o app pe
 
 _somente sendo root é possível acessar a pasta e copiar os arquivos do mesmo_
 
-**caso perca o caminho, use tal comando:
-**
+**caso perca o caminho, use tal comando:**
 
 ``find / | grep "nome de algum arquivo baixado no waydroid"``
 
